@@ -23,7 +23,7 @@ const About: React.FC = () => {
           <div className="space-y-8">
             <h2 className="text-4xl md:text-6xl font-display font-black uppercase tracking-tight">SINCE 2018</h2>
             <p className="text-gray-400 text-xl leading-relaxed">
-              Prime Gym started with a simple vision: to create a space where serious athletes and fitness enthusiasts could find the highest quality equipment and coaching without the distractions of corporate fitness chains.
+              Squizz fitness started with a simple vision: to create a space where serious athletes and fitness enthusiasts could find the highest quality equipment and coaching without the distractions of corporate fitness chains.
             </p>
             <p className="text-gray-400 text-xl leading-relaxed">
               We've grown from a small warehouse setup to a state-of-the-art facility, but our core mission remains the same: helping you achieve your absolute prime performance.
