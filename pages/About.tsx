@@ -13,7 +13,7 @@ const About: React.FC = () => {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-dark to-transparent"></div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 w-full">
-          <h1 className="text-6xl md:text-9xl font-display font-black uppercase leading-none italic">PRIME <span className="text-primary">STORY</span></h1>
+          <h1 className="text-6xl md:text-9xl font-display font-black uppercase leading-none italic">SQUIZ <span className="text-primary">STORY</span></h1>
         </div>
       </section>
 
